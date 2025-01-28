@@ -9,6 +9,7 @@
   I have worked with <b>cross-functional teams</b> to enhance workflows, deliver high-quality solutions, and improve user experiences. My key strengths lie in:  
 </p>  
 
+
 <p align="center>  
   I am <b>passionate about continuous learning</b>, building personal projects, and expanding my technical knowledge. I look forward to contributing to dynamic organizations by leveraging my skills to create valuable solutions while growing with the company.  
 </p>  
@@ -44,14 +45,8 @@
 - ⚙️ **Enhanced Biometric KYC process** by consolidating three API calls into one, reducing latency by **600ms** and improving performance by **300%**.  
 - 🔗 **Added KYC mode and status details** on the profile page, improving customer support efficiency and user experience.  
 
----
-<h4>🌱 Currently Learning: Advanced React Native</h4>
-<h4> 💬 Ask Me About: React, Redux, React Native, Mobile Development  
-</h4>
-<h4> 📫 Reach Me At: manasraj9669@gmail.com
-</h4>
 
----
+
 <h3 align="left">
   🌐 Connect with Me:</h3> 
   <p align="left"> 
@@ -60,6 +55,7 @@
     <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank"> 
     <img align="center" src="https://tinyurl.com/52yz5zjd" alt="manas-raj-mnit" height="30" width="40"  /> </a> 
   </p>
+  --
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -106,3 +102,4 @@
   
 ---
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manasdangi&show_icons=true&locale=en&layout=compact" alt="manasdangi" /> </p>
+
