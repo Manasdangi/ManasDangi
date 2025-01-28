@@ -1,5 +1,34 @@
 <h1 align="center">Hi 👋, I'm Manas Raj</h1> <h3 align="center">A passionate React and React Native developer dedicated to building impactful features and optimizing workflows 🚀</h3> 
 <h3>I am a mobile application developer with over 1.2 years of experience, creating impactful and innovative solutions in the tech industry. I have worked with cross-functional teams to improve workflows and build scalable, high-performing applications. My key skills include React Native development, modular architecture, and secure transaction systems, all focused on improving efficiency and user experience. I am passionate about growing as a software engineer, building personal projects, and strengthening my technical knowledge. I look forward to contributing to great organizations, using my skills to create valuable solutions while growing with the company.</h3>
+
+## 🏆 Experience  
+
+### 🚀 Airtel, Gurgaon  
+**Software Engineer**  
+*📅 Oct 2023 – Present*  
+- 🔒 **Built backend-driven widgets** for APB wallet and saved-card payment modes, integrating encryption for card transactions and MPIN validation.  
+  - **Impact:** Wallet has achieved almost 100% Success Rate (SR).  
+- 📈 **Enhanced UPI onboarding**, improving success rates by **2%** and introducing health callouts for down banks, boosting SR by **1.5%**.  
+- ⚡ **Developed a new quick checkout variant** for React Native and iOS, increasing SR by **2%**.  
+- 🐛 **Resolved 70+ SWAT bugs**, optimizing UI, eliminating inconsistencies, and enhancing checkout reliability.  
+- ✅ **Led SANITY testing** for major releases, ensuring high-quality deployments.  
+- 🏗️ **Architected a scalable, high-performance new checkout flow** serving **3 million monthly users**.  
+- 🔄 **Migrated the full checkout page** from native iOS to React Native, reducing code size by **50%** using backend-driven widgets and adhering to SOLID principles.  
+- 📊 **Implemented a new order creation and polling flow** for broadband LOB recharges:  
+  - Reduced order service API calls by **3-4x**, decreasing database load and achieving cost savings.  
+- 🛡️ **Integrated SIM binding check** for APB wallet transactions, reducing fraud cases and improving security.  
+  - **Impact:** Positive SR increase by **1%**.  
+
+---
+
+### 🌟 Niyo Solutions, Bangalore  
+**Software Developer Intern**  
+*📅 June 2022 – Dec 2022*  
+- 🔍 **Optimized workbench website search functionality** with bug fixes and new features:  
+  - Added live photo display with liveness detection and face match scores via **AWS S3**.  
+- ⚙️ **Enhanced Biometric KYC process** by consolidating three API calls into one, reducing latency by **600ms** and improving performance by **300%**.  
+- 🔗 **Added KYC mode and status details** on the profile page, improving customer support efficiency and user experience.  
+
 <h4>🌱 Currently Learning: Advanced React Native</h4>
 <h4> 💬 Ask Me About: React, Redux, React Native, Mobile Development  
 </h4>
