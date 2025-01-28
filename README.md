@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas Raj</h1> <h3 align="center">A passionate React and React Native developer dedicated to building impactful features and optimizing workflows 🚀</h3> 
+<h3>I am a mobile application developer with over 1.2 years of experience, creating impactful and innovative solutions in the tech industry. I have worked with cross-functional teams to improve workflows and build scalable, high-performing applications. My key skills include React Native development, modular architecture, and secure transaction systems, all focused on improving efficiency and user experience. I am passionate about growing as a software engineer, building personal projects, and strengthening my technical knowledge. I look forward to contributing to great organizations, using my skills to create valuable solutions while growing with the company.</h3>
 <h4>🌱 Currently Learning: Advanced React Native</h4>
 <h4> 💬 Ask Me About: React, Redux, React Native, Mobile Development  
 </h4>
