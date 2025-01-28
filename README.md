@@ -9,7 +9,6 @@
   I have worked with <b>cross-functional teams</b> to enhance workflows, deliver high-quality solutions, and improve user experiences. My key strengths lie in:  
 </p>  
 
-
 <p align="center>  
   I am <b>passionate about continuous learning</b>, building personal projects, and expanding my technical knowledge. I look forward to contributing to dynamic organizations by leveraging my skills to create valuable solutions while growing with the company.  
 </p>  
