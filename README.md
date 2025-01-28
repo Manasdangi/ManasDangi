@@ -1,5 +1,21 @@
-<h1 align="center">Hi 👋, I'm Manas </h1> <h3 align="center">A passionate React and React Native developer dedicated to building impactful features and optimizing workflows 🚀</h3> 
-<h3>I am a mobile application developer with over 1.2 years of experience, creating impactful and innovative solutions in the tech industry. I have worked with cross-functional teams to improve workflows and build scalable, high-performing applications. My key skills include React Native development, modular architecture, and secure transaction systems, all focused on improving efficiency and user experience. I am passionate about growing as a software engineer, building personal projects, and strengthening my technical knowledge. I look forward to contributing to great organizations, using my skills to create valuable solutions while growing with the company.</h3>
+<h1 align="center">Hi 👋, I'm Manas</h1>  
+<h3 align="center">A passionate React and React Native developer dedicated to building impactful features and optimizing workflows 🚀</h3>  
+
+<p align="center">  
+  I am a <b> web and mobile application developer</b> with over <b>1.7 years of experience</b>, creating impactful and innovative solutions in the tech industry.  
+  I specialize in <b>Javascript, React, React Native development</b>, focusing on modular architecture, and building scalable, high-performing applications.  
+</p>  
+<p align="center">  
+  I have worked with <b>cross-functional teams</b> to enhance workflows, deliver high-quality solutions, and improve user experiences. My key strengths lie in:  
+</p>  
+
+
+<p align="center>  
+  I am <b>passionate about continuous learning</b>, building personal projects, and expanding my technical knowledge. I look forward to contributing to dynamic organizations by leveraging my skills to create valuable solutions while growing with the company.  
+</p>  
+
+###
+---
 
 ## 🏆 Experience  
 
@@ -29,11 +45,14 @@
 - ⚙️ **Enhanced Biometric KYC process** by consolidating three API calls into one, reducing latency by **600ms** and improving performance by **300%**.  
 - 🔗 **Added KYC mode and status details** on the profile page, improving customer support efficiency and user experience.  
 
+---
 <h4>🌱 Currently Learning: Advanced React Native</h4>
 <h4> 💬 Ask Me About: React, Redux, React Native, Mobile Development  
 </h4>
 <h4> 📫 Reach Me At: manasraj9669@gmail.com
 </h4>
+
+---
 <h3 align="left">
   🌐 Connect with Me:</h3> 
   <p align="left"> 
@@ -86,4 +105,5 @@
 </p>
 
   
+---
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manasdangi&show_icons=true&locale=en&layout=compact" alt="manasdangi" /> </p>
