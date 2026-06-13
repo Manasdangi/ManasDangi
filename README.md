@@ -1,115 +1,184 @@
 <h1 align="center">Hi 👋, I'm Manas Raj</h1>
-<h3 align="center">Frontend Engineer | React • TypeScript | Building performant, scalable user experiences 🚀</h3>
+
+<h3 align="center">
+Frontend Engineer | React • TypeScript • Design Systems • Performance Optimization 🚀
+</h3>
 
 <p align="center">
-Frontend-focused <b>Software Engineer with ~2.5 years of experience</b> building high-performance web applications used by millions of users.<br/>
-I specialize in <b>React, TypeScript and modern frontend architecture</b>, focusing on performance optimization, scalable UI systems, and seamless user experiences.
+Frontend-focused Software Engineer with <b>~3 years of experience</b> building scalable web applications, design systems, and high-performance user experiences.
 </p>
 
 <p align="center">
-Currently building impactful products at <b>Spinny</b> and previously worked on large scale payment systems at <b>Airtel</b>.
-I enjoy solving real-world problems, optimizing frontend performance, and building thoughtful UI experiences.
+Currently building consumer-facing products at <b>Spinny</b> and previously worked on large-scale payment systems at <b>Airtel</b>.
+</p>
+
+<p align="center">
+Passionate about React architecture, Core Web Vitals, frontend performance, accessibility, reusable component systems, and delightful user experiences.
 </p>
 
 ---
 
 # 🚀 Experience
 
-## 🚗 Spinny — Software Engineer  
-📍 Gurgaon | 📅 Jan 2025 – Present  
+## 🚗 Spinny — Software Engineer
 
-- 🖥 **Built the Spinny Pro website (desktop) from scratch**, enabling seamless car service booking and management.  
-  **Impact:** Increased overall user visits by **10%**.
+📍 Gurgaon | 📅 Jan 2025 – Present
 
-- 💳 **Developed the full Payment Checkout system** for Spinny Care enabling **100% digital transactions**, refunds and record keeping.
+### 🖥 Spinny Pro Website
 
-- ⚙️ **Built Adhoc Approval Flow** allowing technicians to send part replacement approvals directly to customers through the app.  
-  **Impact:** Reduced turnaround time by **50%**.
+- Built the entire desktop experience of **Spinny Pro** single-handedly.
+- Enabled seamless service booking and management.
+- Increased user visits by **10%**.
 
-- 🔎 **Developed SEO-optimized Car Service Cost Calculator**, helping users estimate service charges based on vehicle type.  
-  **Impact:** Ranked on **1st page of Google search**.
+### 🎨 Design System
 
-- 🧰 Built **Help & Support journey UI** with query & sub-query classification improving issue segregation and reducing resolution time.
+- Integrated and enhanced the shared **Design System** across the Spinny Consumer platform.
+- Contributed reusable components to the Design System repository.
+- Improved UI consistency and accelerated development velocity across teams.
 
-- 📦 **Built Spare Parts Catalogue Page** using **TanStack Query** for efficient data fetching and caching.  
-  **Impact:** Faster API response and improved UI responsiveness.
+### 📈 Sell Homepage
 
-- 🏗 Developed multiple **Refurbishment Dashboard modules**
-  - Address edit
-  - Slot change
-  - Car registration update
-  - Workshop change
+- Developed the **Sell Homepage** for the Spinny Consumer website from scratch.
+- Redesigned the user journey with a simpler and more intuitive UI.
+- Increased lead conversion rates by **10%**.
 
-- ⚡ **Improved frontend performance by 20–30%** by reducing unnecessary re-renders using:
-  - `useMemo`
-  - `useCallback`
-  - dynamic imports
-  - virtualization
+### 💳 Payment Checkout
 
-- 📱 Integrated **WebView flows in the Spinny app** and resolved multiple navigation related issues.
+- Built the complete checkout experience for Spinny Care.
+- Enabled 100% digital transactions, refund processing, and record keeping.
+
+### ⚙️ Adhoc Approval Flow
+
+- Developed technician approval workflows for spare-part related issues.
+- Enabled users to approve requests directly from the app.
+- Reduced turnaround time by **50%**.
+
+### 🔎 SEO & Growth
+
+- Built an SEO-optimized **Car Service Cost Calculator**.
+- Ranked on the **1st page of Google Search**.
+
+### 📦 Catalogue Platform
+
+- Developed the Spare Parts Catalogue page from scratch.
+- Leveraged **TanStack Query** for efficient data fetching and caching.
+- Improved API efficiency and user experience.
+
+### ⚡ Frontend Performance
+
+Improved page performance by **20–30%** through:
+
+- useMemo
+- useCallback
+- Dynamic Imports
+- Virtualization
+- Re-render reduction
+
+Enhanced:
+
+- CLS
+- LCP
+- FPS
+- Core Web Vitals
+
+### 📱 Mobile Integrations
+
+- Integrated WebView flows inside the Spinny mobile application.
+- Resolved multiple navigation and communication issues.
 
 ---
 
-## 📡 Airtel — Software Engineer  
-📍 Gurgaon | 📅 Oct 2023 – Jan 2025  
+## 📡 Airtel — Software Engineer
 
-Worked on **large scale payment systems serving ~3M monthly users.**
+📍 Gurgaon | 📅 Oct 2023 – Jan 2025
 
-- 💳 **Architected a scalable payment checkout flow** handling multiple payment modes and edge cases.
+Worked on payment systems serving **3M+ monthly active users**.
 
-- 🏦 Built **Airtel UPI onboarding flow** improving onboarding **success rate by 2%**.
+### 💳 Payments
 
-- 🚨 Developed **bank health callouts** for down banks improving payment success rate by **1.5%**.
+- Architected a scalable payment checkout flow in React Native.
+- Handled multiple payment modes and edge cases.
 
-- 🔐 Built **backend-driven widgets for APB Wallet and saved card payments** with encryption and MPIN validation.  
-  **Impact:** Wallet transactions achieved **~100% success rate**.
+### 🏦 Airtel UPI
 
-- 🛡 Implemented **SIM binding verification** for APB wallet transactions reducing fraud cases and improving security.
+- Developed Airtel UPI onboarding.
+- Improved onboarding success rate by **2%**.
 
-- 🌐 Contributed to **Airtel UPI Web payment flow**, improving:
+### 🚨 Reliability
+
+- Built health callouts for down banks.
+- Improved payment success rate by **1.5%**.
+
+### 🔐 APB Wallet
+
+- Built backend-driven APB Wallet and saved-card payment widgets.
+- Integrated encryption and MPIN validation.
+- Achieved nearly **100% transaction success rate**.
+
+### 🛡 Fraud Prevention
+
+- Implemented SIM-binding verification for APB Wallet transactions.
+- Reduced fraud cases and improved account security.
+
+### 🌐 Airtel UPI Web
+
+- Worked on Airtel's payment web repository.
+- Improved:
   - VPA handling
-  - intent/callback flows
-  - cross-platform reliability
+  - Intent flows
+  - Callback integrations
+  - Cross-platform reliability
 
 ---
 
-# 💻 Technical Projects
+# 💻 Featured Project
 
-## 🤖 TalentLens — AI Resume Analyzer  
-**React • TypeScript • Vite • Firebase • LLM (Groq)**  
+## 🤖 TalentLens — AI Resume Analyzer
 
-- Built an **AI-powered resume scoring platform** that analyzes resumes against job descriptions for ATS compatibility.
-- Implemented **AI candidate ranking** using resume data stored in Firestore.
-- Built **Recruiter Dashboard** for job posting and candidate ranking.
-- Created **job recommendation engine** matching candidate resumes with openings.
-- Implemented **application tracking system with OAuth authentication**.
+**React • Vite • TypeScript • Firebase • Groq LLM**
+
+- Built an AI-powered ATS Resume Scorer that analyzes resumes against job descriptions.
+- Developed a Recruiter Dashboard for job posting and AI-based candidate ranking.
+- Engineered a job recommendation engine matching role-specific resumes with job openings.
+- Implemented OAuth-based authentication and application tracking workflows.
 
 ---
 
 # 🧠 Technical Skills
 
 ### Languages
-JavaScript • TypeScript • HTML • CSS • Basic C++
+JavaScript • TypeScript • HTML • CSS
 
 ### Frontend
-React • Vite • Redux • GraphQL • Webpack
+React • Redux • Vite • Webpack • GraphQL
 
-### Frontend Architecture
-Component-driven architecture • SSR • Performance optimization • Virtualization
+### Architecture
+Design Systems • Component-Driven Architecture • SSR • Accessibility
 
-### Performance & Debugging
-Chrome DevTools • Performance Profiling • Core Web Vitals optimization
+### Performance
+Core Web Vitals • Lighthouse • Chrome DevTools • Performance Profiling • Virtualization
 
-### Other
-Socket.IO • Git • Agile • Debugging • System Design thinking
+### Backend & APIs
+REST APIs • Firebase • Socket.IO
+
+### Tools
+Git • Bitbucket • Jira • Agile
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
+  <a href="mailto:manasraj9669@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+
   <a href="https://linkedin.com/in/manas-raj-mnit" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-Manas%20Raj-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://github.com/Manasdangi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Manasdangi-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -125,11 +194,23 @@ Socket.IO • Git • Agile • Debugging • System Design thinking
 <a href="https://vitejs.dev/"><img src="https://vitejs.dev/logo.svg" width="40" height="50"/></a>
 <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="50"/></a>
 <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="50"/></a>
-<a href="https://figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="50"/></a>
+<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="50"/></a>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manasdangi&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manasdangi&show_icons=true&locale=en&layout=compact&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manasdangi&show_icons=true&locale=en&layout=compact"/>
+Building scalable products, design systems, and high-performance frontend experiences 🚀
 </p>
