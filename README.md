@@ -32,9 +32,18 @@ Passionate about React architecture, Core Web Vitals, frontend performance, acce
 
 ### 🎨 Design System
 
-- Integrated and enhanced the shared **Design System** across the Spinny Consumer platform.
-- Contributed reusable components to the Design System repository.
-- Improved UI consistency and accelerated development velocity across teams.
+- Integrated and enhanced the shared **SPEED Design System** across the Spinny Consumer platform.
+- Contributed reusable components and standardized UI patterns, reducing development effort and improving product consistency.
+
+### 🤖 AI-Powered Engineering Automation
+
+- Built a scheduled **AI triage agent using Claude Code and Bitbucket Pipelines** that reads daily Sentry errors and files enriched Jira bugs with root-cause analysis.
+- Reduced **25 daily error candidates to 2 actionable tickets**, with a one-command workflow that drafts the fix and raises a PR.
+
+### 🚗 Car Inspection Scheduling
+
+- Built a **car inspection scheduling feature** that allows users to conveniently schedule inspections for damaged or service-required vehicles.
+- Streamlined the inspection booking journey, making it easier for users to initiate and track their service requests.
 
 ### 📈 Sell Homepage
 
