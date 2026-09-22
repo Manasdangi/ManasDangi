@@ -95,6 +95,13 @@ Enhanced:
 - Integrated WebView flows inside the Spinny mobile application.
 - Resolved multiple navigation and communication issues.
 
+### 📱 Spinny App
+
+- Migrated the **Spinny mobile app** from **React Native 0.72 to 0.80**, ensuring compatibility with the latest framework and dependencies.
+- Enabled **16 KB Android memory page size support** for the Spinny app, ensuring compatibility with newer Android platform requirements.
+- Integrated WebView flows inside the Spinny mobile application.
+- Resolved multiple navigation and communication issues.
+
 ---
 
 ## 📡 Airtel — Software Engineer
